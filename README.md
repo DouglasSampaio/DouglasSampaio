@@ -1,7 +1,8 @@
 ### Olá, me chamou Douglas
 
 - 🔭 Hoje trabalho com back-end
-- 🌱 Estudando Java
+- 🌱 Estudando Node
+- 🌱 Estudando Java em finais de semana
 
 <div align="center">
   <a href="https://github.com/DouglasSampaio">
